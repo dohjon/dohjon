@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+My name is Jonathan.
+
+I'm a senior software engineer currently working as a consultant at [Ericsson](https://www.ericsson.com).
+
+#### Blog: 
+
+- [dohjon.dev](https://dohjon.dev)   
+
+#### Get in Touch:
+
+- [Linkedin](https://www.linkedin.com/in/dohjon)   
+- [Figma](https://figma.com/@dohjon)   
+- [Mastodon](https://hachyderm.io/@dohjon)
+
+
 <!--
 **dohjon/dohjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
